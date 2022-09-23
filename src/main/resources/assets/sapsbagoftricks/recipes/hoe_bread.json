@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BB ",
+    " S ",
+    " S "
+  ],
+  "key":
+  {
+    "B":
+    {
+      "item": "minecraft:bread"
+    },
+    "S":
+    {
+      "item": "sapsbagoftricks:stick_bread"
+    }
+  },
+  "result":
+  {
+    "item": "sapsbagoftricks:hoe_bread",
+    "count": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "entity.pingu.ambient":
+  {
+    "category": "entity",
+    "subtitle": "entity.pingu.ambient",
+    "sounds": [
+      {
+        "name": "sapsbagoftricks:entity/pingu/ambient",
+        "stream": true
+      }
+    ]
+  },
+
+  "entity.pingu.hurt":
+  {
+    "category": "entity",
+    "subtitle": "entity.pingu.hurt",
+    "sounds": [
+      {
+        "name": "sapsbagoftricks:entity/pingu/hurt",
+        "stream": true
+      }
+    ]
+  },
+
+  "entity.pingu.death": {
+    "category": "entity",
+    "subtitle": "entity.pingu.death",
+    "sounds": [
+      {
+        "name": "sapsbagoftricks:entity/pingu/death",
+        "stream": true
+      }
+    ]
+  },
+  "entity.dustie.death": {
+    "category": "entity",
+    "subtitle": "entity.dustie.death",
+    "sounds": [
+      {
+        "name": "sapsbagoftricks:entity/dustie/death",
+        "stream": true
+      }
+    ]
+  },
+  "entity.dustie.hurt": {
+    "category": "entity",
+    "subtitle": "entity.dustie.hurt",
+    "sounds": [
+      {
+        "name": "sapsbagoftricks:entity/dustie/hurt",
+        "stream": true
+      }
+    ]
+  }
+}

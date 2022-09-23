@@ -1,0 +1,18 @@
+tile.block_bread.name=Bread Block
+
+item.tricks_bag.name=Bag of tricks
+item.stick_bread.name=Bread stick
+
+item.sword_bread.name=Bread Sword
+item.axe_bread.name=Bread Axe
+item.pickaxe_bread.name=Bread Pickaxe
+item.shovel_bread.name=Bread Shovel
+item.hoe_bread.name=Bread Hoe
+
+item.chestplate_bread.name=Bread Chestplate
+
+itemGroup.sapsbagoftrickstab=Sap's Bag Of Tricks
+
+entity.pengu.name=Pengu
+entity.dustie.name=Dustie
+entity.hostile_pengu.name=Hostile Pengu

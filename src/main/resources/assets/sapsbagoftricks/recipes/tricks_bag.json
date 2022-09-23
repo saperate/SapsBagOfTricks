@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "SLS",
+    "LCL",
+    "LLL"
+  ],
+  "key":
+  {
+    "L":
+    {
+      "item": "minecraft:leather"
+    },
+    "S":
+    {
+      "item": "minecraft:string"
+    },
+    "C":
+    {
+      "item": "minecraft:command_block"
+    }
+  },
+  "result":
+  {
+    "item": "sapsbagoftricks:tricks_bag",
+    "count": 1
+  }
+}
